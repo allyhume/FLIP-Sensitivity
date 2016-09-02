@@ -19,5 +19,6 @@ The output of running these simulations can be found in sub-directories of data/
 The results can be used to produce the plots and data in the report by running the R scripts found in src/analyseSimilationData directory.
 
 
-Ally Hume 
+Ally Hume
+
 2 September 2016
