@@ -9,7 +9,7 @@ You will need to ensure R has the following packages installed before running:
 install.packages("ncdf4")
 install.pacakges("abind")
 ```
-You will also need to edit the setwd file near to the top of the scripts to
+You will also need to edit the setwd line near to the top of the scripts to
 specify the location of the *.nc files.
 
 The 2011 version (SampleAndProduceData2011.R) will read in the following nc data files:
